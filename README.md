@@ -1,0 +1,1 @@
+This is only for google drive folders, to use this paste the code on google app script along with folder id. This will ask for authentications but it wont have the authentication to edit, move or any changes. It will create a report on google doc.
